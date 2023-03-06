@@ -55,6 +55,13 @@ h2 {
 	height: 100%;
 }
 
+.maui_image{
+	position:absolute;
+	bottom: 0;
+	right: 0;
+	height: 100%;
+}
+
 /* Page-specific styles */
 
 .home-header {
@@ -96,4 +103,11 @@ h2 {
 .kauai-main {
 	background-color: #f5f5f5;
 	padding: 20px;
+}
+
+footer {
+	background-color: #222;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
 }
