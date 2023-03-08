@@ -1,7 +1,7 @@
 body {
 	font-family: "Georgia", serif;
 	margin: 20px;
-	background-color: #e9e8e8;
+	background-color: #E9E8E8;
 }
 
 h1, h2, h3 {
@@ -19,7 +19,7 @@ p {
 }
 
 nav {
-	background-color: #cc5888
+	background-color: #CC5888
 	padding: 10px;
 }
 
@@ -35,7 +35,7 @@ nav li {
 }
 
 nav a {
-	color: #e9e8e8;
+	color: #E9E8E8;
 	text-decoration: none;
 }
 
@@ -61,8 +61,8 @@ nav a:hover {
 }
 
 footer {
-	background-color: #cc5888;
-	color: #ffffff;
+	background-color: #CC5888;
+	color: #693555;
 	padding: 10px;
 	text-align: center;
 	margin-top: 20px;
