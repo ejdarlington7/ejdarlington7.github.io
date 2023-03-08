@@ -1,25 +1,25 @@
 body {
 	font-family: "Georgia", serif;
 	margin: 20px;
-	background-color: #e6f2ff;
+	background-color: #e9e8e8;
 }
 
 h1, h2, h3 {
 	font-weight: bold;
 	font-size: 36px;
-	color: #333333;
+	color: #050405;
 	margin-bottom: 20px;
 }
 
 p {
 	font-size: 18px;
 	line-height: 1.5;
-	color: #555555;
+	color: #693555;
 	margin-bottom: 20px;
 }
 
 nav {
-	background-color: #4d4d4d;
+	background-color: #cc5888
 	padding: 10px;
 }
 
@@ -35,12 +35,12 @@ nav li {
 }
 
 nav a {
-	color: #ffffff;
+	color: #e9e8e8;
 	text-decoration: none;
 }
 
 nav a:hover {
-	color: #e6f2ff;
+	color: #615457;
 	text-decoration: underline;
 }
 
@@ -61,7 +61,7 @@ nav a:hover {
 }
 
 footer {
-	background-color: #4d4d4d;
+	background-color: #cc5888;
 	color: #ffffff;
 	padding: 10px;
 	text-align: center;
