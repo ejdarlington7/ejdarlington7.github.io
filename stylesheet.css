@@ -23,7 +23,6 @@ h3 {
 	font-size: 30px;
 	color: #050405;
 	margin-bottom: 20px;
-	text-align: center;
 }
 
 p {
@@ -57,7 +56,6 @@ nav a:hover {
 .images {
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: center;
 	margin-bottom: 20px;
 }
 
