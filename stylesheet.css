@@ -64,13 +64,13 @@ nav a:hover {
 	border-radius: 10px;
 }
 
-p.left-paragraph {
+.left-paragraph {
 	width:50%;
 	float:left;
 	margin-right: 20px;
 }
 
-ul.right-list{
+.right-list{
 	float:right;
 	width: 50%;
 	margin-left: 20px;
@@ -78,9 +78,8 @@ ul.right-list{
 
 .home {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin-bottom: 20px;
+  justify-content: space-between;
+  align-items: flex-start;
 }
 
 footer {
