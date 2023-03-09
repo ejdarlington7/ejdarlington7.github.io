@@ -84,7 +84,7 @@ nav a:hover {
 
 .center {
 	text-align: center;
-	position: fixed;
+	position: absolute;
   	top: 80%;
   	left: 50%;
 }
