@@ -64,13 +64,13 @@ nav a:hover {
 	border-radius: 10px;
 }
 
-.left-paragraph {
+.left-side {
 	width:50%;
 	float:left;
 	margin-right: 20px;
 }
 
-.right-list{
+.right-side{
 	float:right;
 	width: 50%;
 	margin-left: 20px;
