@@ -1,7 +1,7 @@
 body {
 	font-family: "Georgia", serif;
 	margin: 20px;
-	background-color: lightblue;
+	background-color: #E9E8E8;
 }
 
 h1, h2, h3 {
@@ -19,7 +19,7 @@ p {
 }
 
 nav {
-	background-color: #CC5888
+	background-color: #CC5888;
 	padding: 10px;
 }
 
