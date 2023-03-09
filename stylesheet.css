@@ -76,12 +76,6 @@ nav a:hover {
 	margin-left: 20px;
 }
 
-.home {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-}
-
 footer {
 	background-color: #CC5888;
 	color: #693555;
