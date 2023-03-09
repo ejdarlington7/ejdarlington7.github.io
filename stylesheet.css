@@ -54,7 +54,7 @@ nav li {
 
 nav a {
 	color: #E9E8E8;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 nav a:hover {
@@ -79,14 +79,14 @@ nav a:hover {
 }
 
 .left-side {
-	width:40%;
+	width:45%;
 	float:left;
 	margin-right: 20px;
 }
 
 .right-side{
 	float:right;
-	width: 40%;
+	width: 45%;
 	margin-left: 20px;
 }
 
