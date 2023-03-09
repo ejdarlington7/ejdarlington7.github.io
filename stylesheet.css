@@ -84,6 +84,9 @@ nav a:hover {
 
 .center {
 	text-align: center;
+	position: fixed;
+  	top: 80%;
+  	left: 50%;
 }
 
 footer {
