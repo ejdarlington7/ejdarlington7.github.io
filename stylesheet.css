@@ -18,6 +18,10 @@ p {
 	margin-bottom: 20px;
 }
 
+dl {
+	color: 693555;
+}
+
 nav {
 	background-color: #CC5888;
 	padding: 10px;
