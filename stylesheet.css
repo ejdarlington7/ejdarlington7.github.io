@@ -65,14 +65,14 @@ nav a:hover {
 }
 
 .left-side {
-	width:50%;
+	width:40%;
 	float:left;
 	margin-right: 20px;
 }
 
 .right-side{
 	float:right;
-	width: 50%;
+	width: 40%;
 	margin-left: 20px;
 }
 
