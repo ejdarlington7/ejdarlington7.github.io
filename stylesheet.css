@@ -4,9 +4,23 @@ body {
 	background-color: #E9E8E8;
 }
 
-h1, h2, h3 {
+h1 {
 	font-weight: bold;
-	font-size: 36px;
+	font-size: 70px;
+	color: #050405;
+	margin-bottom: 20px;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 50px;
+	color: #050405;
+	margin-bottom: 20px;
+}
+
+h3 {
+	font-weight: bold;
+	font-size: 30px;
 	color: #050405;
 	margin-bottom: 20px;
 }
@@ -68,14 +82,12 @@ nav a:hover {
 	width:40%;
 	float:left;
 	margin-right: 20px;
-	z-index: 1;
 }
 
 .right-side{
 	float:right;
 	width: 40%;
 	margin-left: 20px;
-	z-index: 1;
 }
 
 footer {
@@ -85,5 +97,6 @@ footer {
 	text-align: center;
 	margin-top: 20px;
 	z-index: 0;
+	position: fixed;
 }
 
