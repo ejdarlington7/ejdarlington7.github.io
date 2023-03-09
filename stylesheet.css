@@ -64,6 +64,11 @@ nav a:hover {
 	border-radius: 10px;
 }
 
+p.left-paragraph {
+	width:50%;
+	float:left;
+}
+
 footer {
 	background-color: #CC5888;
 	color: #693555;
