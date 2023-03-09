@@ -1,6 +1,6 @@
 body {
 	font-family: "Georgia", serif;
-	margin: 20px;
+	margin: 0px;
 	background-color: #E9E8E8;
 }
 
@@ -65,7 +65,7 @@ nav a:hover {
 }
 
 p.left-paragraph {
-	width:50%;
+	width:40%;
 	float:left;
 }
 
