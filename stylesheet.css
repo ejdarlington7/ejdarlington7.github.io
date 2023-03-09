@@ -65,13 +65,22 @@ nav a:hover {
 }
 
 p.left-paragraph {
-	width:20%;
+	width:50%;
 	float:left;
+	margin-right: 20px;
 }
 
 ul.right-list{
 	float:right;
-	width: 20%;
+	width: 50%;
+	margin-left: 20px;
+}
+
+.home {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
 }
 
 footer {
