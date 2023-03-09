@@ -82,9 +82,6 @@ nav a:hover {
 
 .center {
 	text-align: center;
-  	left: 50%;
-  	top: 1%;
-  	transform: translate(-50%, -50%);
 }
 
 .center-title{
