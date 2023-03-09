@@ -12,7 +12,7 @@ h1 {
 }
 
 h2 {
-	font-weight: bold;
+	font-weight: !important;
 	font-size: 50px;
 	color: #050405;
 	margin-bottom: 20px;
