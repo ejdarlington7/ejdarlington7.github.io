@@ -1,6 +1,6 @@
 body {
 	font-family: "Georgia", serif;
-	margin: 0px;
+	margin: 20px;
 	background-color: #E9E8E8;
 }
 
@@ -65,8 +65,13 @@ nav a:hover {
 }
 
 p.left-paragraph {
-	width:40%;
+	width:20%;
 	float:left;
+}
+
+ul.right-list{
+	float:right;
+	width: 20%;
 }
 
 footer {
